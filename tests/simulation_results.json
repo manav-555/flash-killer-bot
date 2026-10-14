@@ -1,0 +1,11 @@
+{
+  "passed": 5,
+  "total": 5,
+  "results": {
+    "health": true,
+    "verify_ok": true,
+    "verify_bad": true,
+    "reel_post": true,
+    "ignored_event": true
+  }
+}
